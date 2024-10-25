@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">normal_bmi</string>
+    <string name="click_me">Click Me</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="bmi">BMI</string>
+    <string name="health_status">Health Status</string>
+</resources>
